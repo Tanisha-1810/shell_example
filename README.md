@@ -1,2 +1,2 @@
 # shell_example
-example
+Calculator Application using Shell Script 
